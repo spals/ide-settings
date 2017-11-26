@@ -1,0 +1,9 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="cleanup">
+      <action id="ReformatCode" />
+      <action id="OptimizeImports" />
+      <action id="RearrangeCode" />
+    </macro>
+  </component>
+</application>
