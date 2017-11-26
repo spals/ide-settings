@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'apex-jorje'" />
-    <option name="defaultScopeName" value="Project 'apex-jorje'" />
-    <option name="SEARCH_SCOPE" value="Project 'apex-jorje'" />
+    <option name="customScope" value="Project 'midas'" />
+    <option name="defaultScopeName" value="Project 'midas'" />
+    <option name="SEARCH_SCOPE" value="Project 'midas'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
