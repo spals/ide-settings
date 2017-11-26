@@ -1,0 +1,21 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="java.util.Objects.equals(a,b)" />
+        <added pattern="apex.jorje.data.Locations.loc(line,column)" />
+        <added pattern="apex.jorje.semantic.common.iterable.LessStrings.joiner(strings)" />
+        <added pattern="apex.jorje.semantic.ast.expression.ReferenceContext.getType(expression)" />
+        <added pattern="apex.jorje.services.I18nSupport.getLabel(key,values)" />
+        <added pattern="apex.jorje.semantic.exception.Errors.markInvalid(node,message)" />
+        <added pattern="java.util.Optional.orElse(other)" />
+        <added pattern="apex.jorje.services.I18nSupport.getLabel(key)" />
+        <added pattern="apex.jorje.data.JadtFactory.identifier(name)" />
+        <added pattern="java.util.stream.Collectors.joining(delimiter,prefix,suffix)" />
+        <added pattern="java.util.stream.Collectors.joining(delimiter)" />
+        <added pattern="apex.jorje.data.Locations.loc(startIndex,endIndex,line,column)" />
+        <added pattern="apex.jorje.data.Locations.index(index,length)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
