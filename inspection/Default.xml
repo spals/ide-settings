@@ -1,3 +1,25 @@
-<inspections profile_name="Default" version="1.0">
+<profile version="1.0">
   <option name="myName" value="Default" />
-</inspections>
+  <inspection_tool class="FieldCanBeLocal" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="EXCLUDE_ANNOS">
+      <value>
+        <list size="1">
+          <item index="0" class="java.lang.String" itemvalue="com.netflix.governator.annotations.Configuration" />
+        </list>
+      </value>
+    </option>
+    <option name="IGNORE_FIELDS_USED_IN_MULTIPLE_METHODS" value="true" />
+  </inspection_tool>
+  <inspection_tool class="FieldMayBeFinal" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="IgnoreUnusedEntry" enabled="false" level="UNUSED ENTRY" enabled_by_default="false" />
+  <inspection_tool class="LocalCanBeFinal" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="REPORT_VARIABLES" value="true" />
+    <option name="REPORT_PARAMETERS" value="true" />
+  </inspection_tool>
+  <inspection_tool class="OptionalUsedAsFieldOrParameterType" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="UnnecessaryParentheses" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ignoreClarifyingParentheses" value="false" />
+    <option name="ignoreParenthesesOnConditionals" value="false" />
+    <option name="ignoreParenthesesOnLambdaParameter" value="false" />
+  </inspection_tool>
+</profile>

@@ -1,4 +1,4 @@
-<code_scheme name="jorje">
+<code_scheme name="spals">
   <option name="OTHER_INDENT_OPTIONS">
     <value>
       <option name="INDENT_SIZE" value="4" />
@@ -17,7 +17,14 @@
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="3" />
   <option name="IMPORT_LAYOUT_TABLE">
     <value>
+      <package name="javax" withSubpackages="true" static="true" />
+      <package name="java" withSubpackages="true" static="true" />
+      <emptyLine />
+      <package name="com.google" withSubpackages="true" static="true" />
+      <emptyLine />
       <package name="" withSubpackages="true" static="true" />
+      <emptyLine />
+      <package name="net.spals" withSubpackages="true" static="true" />
       <emptyLine />
       <package name="javax" withSubpackages="true" static="false" />
       <package name="java" withSubpackages="true" static="false" />
@@ -26,16 +33,21 @@
       <emptyLine />
       <package name="" withSubpackages="true" static="false" />
       <emptyLine />
-      <package name="apex.jorje" withSubpackages="true" static="false" />
+      <package name="net.spals" withSubpackages="true" static="false" />
     </value>
   </option>
-  <MarkdownNavigatorCodeStyleSettings>
-    <option name="RIGHT_MARGIN" value="72" />
-  </MarkdownNavigatorCodeStyleSettings>
+  <option name="JD_KEEP_INVALID_TAGS" value="false" />
+  <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
+  <option name="JD_KEEP_EMPTY_PARAMETER" value="false" />
+  <option name="JD_KEEP_EMPTY_EXCEPTION" value="false" />
+  <option name="JD_KEEP_EMPTY_RETURN" value="false" />
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="JAVA">
+    <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
     <option name="INDENT_CASE_FROM_SWITCH" value="false" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
