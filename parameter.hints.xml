@@ -17,6 +17,7 @@
         <added pattern="apex.jorje.data.Locations.index(index,length)" />
         <added pattern="net.spals.drunkr.i18n.StandardI18nSupport.getLabel(key,values)" />
         <added pattern="net.spals.drunkr.i18n.StandardI18nSupport.getLabel(key)" />
+        <added pattern="net.spals.drunkr.i18n.I18nSupport.getLabel(key,values)" />
       </blacklist>
     </blacklists>
   </component>
