@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Directory '/Users/james.spagnola/.m2/repository/com/beust/jcommander/1.48/jcommander-1.48.jar - [Maven: com.beust:jcommander:1.48]'" />
+    <option name="defaultScopeName" value="Directory '/Users/james.spagnola/.m2/repository/com/beust/jcommander/1.48/jcommander-1.48.jar - [Maven: com.beust:jcommander:1.48]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Directory '/Users/james.spagnola/.m2/repository/com/beust/jcommander/1.48/jcommander-1.48.jar - [Maven: com.beust:jcommander:1.48]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
