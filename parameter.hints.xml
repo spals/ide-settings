@@ -19,6 +19,8 @@
         <added pattern="net.spals.drunkr.i18n.StandardI18nSupport.getLabel(key)" />
         <added pattern="net.spals.drunkr.i18n.I18nSupport.getLabel(key,values)" />
         <added pattern="org.mockito.ArgumentMatchers.eq(value)" />
+        <added pattern="com.mongodb.DB.getCollection(name)" />
+        <added pattern="com.mongodb.BasicDBObject.append(key,val)" />
       </blacklist>
     </blacklists>
   </component>
