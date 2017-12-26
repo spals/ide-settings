@@ -21,6 +21,9 @@
         <added pattern="org.mockito.ArgumentMatchers.eq(value)" />
         <added pattern="com.mongodb.DB.getCollection(name)" />
         <added pattern="com.mongodb.BasicDBObject.append(key,val)" />
+        <added pattern="net.spals.drunkr.service.untappd.CheckinIterableTest.buildBeerJson(name,abv)" />
+        <added pattern="net.spals.drunkr.service.untappd.CheckinIterableTest.buildBreweryJson(name)" />
+        <added pattern="net.spals.drunkr.service.untappd.CheckinIterableTest.buildCheckin(id,rating,timestamp,beer,brewery)" />
       </blacklist>
     </blacklists>
   </component>
