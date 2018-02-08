@@ -25,6 +25,7 @@
         <added pattern="net.spals.drunkr.service.untappd.CheckinIterableTest.buildBreweryJson(name)" />
         <added pattern="net.spals.drunkr.service.untappd.CheckinIterableTest.buildCheckin(id,rating,timestamp,beer,brewery)" />
         <added pattern="net.spals.drunkr.common.ResponseMatcher.withResponse(status,message)" />
+        <added pattern="net.spals.drunkr.app.DrunkrAppITest.constructTarget(path)" />
       </blacklist>
     </blacklists>
   </component>
