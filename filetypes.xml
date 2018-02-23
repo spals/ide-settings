@@ -2,15 +2,15 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="SystemLabelExpression.apex" type="PLAIN_TEXT" />
-      <mapping pattern="AbstractMethodCallVersion172.apex" type="PLAIN_TEXT" />
       <mapping pattern="InheritanceAbstractBridge" type="PLAIN_TEXT" />
-      <mapping pattern="PackageVersionExpression" type="PLAIN_TEXT" />
       <mapping pattern="YeahIWentThere" type="PLAIN_TEXT" />
+      <mapping pattern="PackageVersionExpression" type="PLAIN_TEXT" />
       <mapping pattern="WithSharingTryCatchFinallyBlockStatement" type="PLAIN_TEXT" />
-      <mapping pattern="ReturnStatementVersion200.apex" type="PLAIN_TEXT" />
+      <mapping pattern="AbstractMethodCallVersion172.apex" type="PLAIN_TEXT" />
       <mapping pattern="CheckFinalV158" type="PLAIN_TEXT" />
-      <mapping ext="midas" type="PLAIN_TEXT" />
+      <mapping pattern="ReturnStatementVersion200.apex" type="PLAIN_TEXT" />
       <mapping ext="apex" type="PLAIN_TEXT" />
+      <mapping ext="midas" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
     </extensionMap>
