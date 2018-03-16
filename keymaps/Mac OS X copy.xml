@@ -2,4 +2,7 @@
   <action id="Macro.cleanup">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
+  <action id="Macro.save">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
 </keymap>
