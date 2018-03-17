@@ -27,6 +27,8 @@
         <added pattern="net.spals.drunkr.common.ResponseMatcher.withResponse(status,message)" />
         <added pattern="net.spals.drunkr.app.DrunkrAppITest.constructTarget(path)" />
         <added pattern="com.google.common.truth.MapSubject.containsExactly(k0,v0,rest)" />
+        <added pattern="com.google.common.collect.ImmutableMap.Builder.put(entry)" />
+        <added pattern="java.util.Map.putAll(m)" />
       </blacklist>
     </blacklists>
   </component>
