@@ -26,6 +26,7 @@
         <added pattern="net.spals.drunkr.service.untappd.CheckinIterableTest.buildCheckin(id,rating,timestamp,beer,brewery)" />
         <added pattern="net.spals.drunkr.common.ResponseMatcher.withResponse(status,message)" />
         <added pattern="net.spals.drunkr.app.DrunkrAppITest.constructTarget(path)" />
+        <added pattern="com.google.common.truth.MapSubject.containsExactly(k0,v0,rest)" />
       </blacklist>
     </blacklists>
   </component>
