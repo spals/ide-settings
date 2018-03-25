@@ -29,6 +29,8 @@
         <added pattern="com.google.common.truth.MapSubject.containsExactly(k0,v0,rest)" />
         <added pattern="com.google.common.collect.ImmutableMap.Builder.put(entry)" />
         <added pattern="java.util.Map.putAll(m)" />
+        <added pattern="com.google.common.collect.Iterables.getLast(iterable)" />
+        <added pattern="com.google.common.collect.Iterables.getLast(iterable,defaultValue)" />
       </blacklist>
     </blacklists>
   </component>
