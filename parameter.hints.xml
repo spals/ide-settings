@@ -33,6 +33,8 @@
         <added pattern="com.google.common.collect.Iterables.getLast(iterable,defaultValue)" />
         <added pattern="net.spals.drunkr.i18n.I18nSupport.getLabel(key)" />
         <added pattern="org.mockito.Mockito.times(wantedNumberOfInvocations)" />
+        <added pattern="com.mongodb.client.model.Indexes.ascending(fieldNames)" />
+        <added pattern="com.mongodb.client.model.Indexes.compoundIndex(indexes)" />
       </blacklist>
     </blacklists>
   </component>
